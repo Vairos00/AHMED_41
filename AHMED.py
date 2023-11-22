@@ -1,4 +1,4 @@
-from os import path
+
 import os,base64,zlib,pip,urllib
 os.system('xdg-open https://www.facebook.com/profile.php?id=100000590492490')
 print('\n\033[1;37m install modules...\n It will take some seconds...')
